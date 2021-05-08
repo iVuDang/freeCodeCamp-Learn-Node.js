@@ -1,2 +1,49 @@
 # The-Odin-Project-JavaScript-Exercises
 https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/fundamentals-part-4
+
+
+## Purpose: 
+To complete the following exercises:
+
+    helloWorld
+    repeatString
+    reverseString
+    removeFromArray
+    sumAll
+    leapYears
+    tempConversion
+
+
+
+### Technologies: 
+* HTML
+* CSS
+
+### Tools
+* Git
+* GitHub
+* Browser developer tools. 
+
+### Outcome
+* I recreated the google homepage. 
+
+### Links 
+YouTube - tutorial link:
+https://youtu.be/xsgqilAHmYk
+
+Codepen - solution link:
+https://codepen.io/iVuDang/pen/poRyRrV
+
+<br />
+
+## Summary
+
+### What I learned
+* **CSS** grid layout and flexbox. 
+* Adding borders while coding to help visualize box elements (then clean up after). 
+
+
+### What could be improved
+* How to insert or place the search icon into the search bar. 
+
+

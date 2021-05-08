@@ -1,5 +1,8 @@
-# The-Odin-Project-JavaScript-Exercises
+# The Odin Project - JavaScript Exercises
+
+Reference:
 https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/fundamentals-part-4
+https://github.com/TheOdinProject/javascript-exercises#how-to-use-these-exercises
 
 
 ## Purpose: 
@@ -14,36 +17,29 @@ To complete the following exercises:
     tempConversion
 
 
-
 ### Technologies: 
-* HTML
-* CSS
+* JavaScript
 
 ### Tools
-* Git
+* Node.js
+* Microsoft Visual Studio Code
 * GitHub
-* Browser developer tools. 
+
 
 ### Outcome
-* I recreated the google homepage. 
-
-### Links 
-YouTube - tutorial link:
-https://youtu.be/xsgqilAHmYk
-
-Codepen - solution link:
-https://codepen.io/iVuDang/pen/poRyRrV
+* I completed the JavaScript functions to produce the desired output in each exercise. 
 
 <br />
+
 
 ## Summary
 
 ### What I learned
-* **CSS** grid layout and flexbox. 
-* Adding borders while coding to help visualize box elements (then clean up after). 
+* Introduction to using **Node.js** 
 
 
 ### What could be improved
-* How to insert or place the search icon into the search bar. 
+* More practice required with **Node.js** 
+
 
 

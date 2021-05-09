@@ -32,6 +32,10 @@ class Person extends EventEmitter{
 // Extends keyword is used in class declarations or class expressions to create a class that is a child of another class.
 
 let iVuDang = new Person('iVuDang');
+let Tesla = new Person('Tesla');
+Tesla.on('name',()=>{
+    console.log('my name is ' + Tesla.name);
+});
 
 iVuDang.on('name',()=>{
     console.log('my name is ' + iVuDang.name);
@@ -41,4 +45,5 @@ iVuDang.on('name',()=>{
 
 iVuDang.emit('name');
 // node app14 => my name is iVuDang
-
+Tesla.emit('name'); 
+// nodeapp14 => my name is Tesla

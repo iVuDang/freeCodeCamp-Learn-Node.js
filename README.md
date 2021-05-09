@@ -32,6 +32,7 @@ To complete the **Node.js** video tutorial.
 * Microsoft Visual Studio Code, practice switching between terminals: 
   * Node.js 'cmd' (to test functions)
     * cls to clear screen
+    * node 'name of file' to run it 
   * Git 'bash' (to push files onto GitHub) 
     * clear to clear screen
     * git add -A

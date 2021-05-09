@@ -14,6 +14,14 @@ rl.question(`What is ${ num1 } + ${ num2 }? \n`,
     } else {
         rl.setPrompt('Incorrect response, please try again\n')
         rl.prompt();
+
+        rl.on('line',(userInput)=>{
+            if(userInput.trim() == answer)
+            rl.close();
+            else {
+                rl.setPrompt(`Your answer of ${ userInput } is incorrect, try again \n`);
+            }
+        })
     }
 });
 
@@ -31,14 +39,23 @@ rl.on('close',()=>{
 });
 
 /*
-    * node app22 => 
+    * Line 13, node app22 => 
         What is 10 + 8?
         18
         Correct!
 
 
-    * node app22 => 
+    * Line 17, node app22 => 
         What is 6 + 8?
         4
         Incorrect response, please try again
+
+
+    * Line 18, node app22 => 
+        What is 5 + 8?
+        12
+        Incorrect response, please try again
+        13
+        Correct!
+
 */

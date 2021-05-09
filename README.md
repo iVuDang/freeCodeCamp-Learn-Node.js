@@ -38,6 +38,7 @@ To complete the **Node.js** video tutorial.
     * git add -A
     * git commit -m 'message'
     * git push origin main 
+    * git pull origin main (if conflict, pull changes from github)
 
 
 ### What could be improved

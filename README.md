@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=RLtyhwFtXQA
 
 
 ## Purpose: 
-To complete the video tutorial. 
+To complete the **Node.js** video tutorial. 
 
 
 ### Technologies: 

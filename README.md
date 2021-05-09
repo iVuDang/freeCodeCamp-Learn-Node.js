@@ -1,21 +1,12 @@
-# The Odin Project - JavaScript Exercises
+# freeCodeCamp - Learn Node.js - Full Tutorial for Beginners
 
 Reference:
 <br/>
-https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/fundamentals-part-4
-https://github.com/TheOdinProject/javascript-exercises#how-to-use-these-exercises
+https://www.youtube.com/watch?v=RLtyhwFtXQA
 
 
 ## Purpose: 
-To complete the following exercises:
-
-    helloWorld
-    repeatString
-    reverseString
-    removeFromArray
-    sumAll
-    leapYears
-    tempConversion
+To complete the video tutorial. 
 
 
 ### Technologies: 
@@ -28,7 +19,7 @@ To complete the following exercises:
 
 
 ### Outcome
-* I completed the JavaScript functions to produce the desired output in each exercise. 
+* Completed video tutorial of Node.js 
 
 <br />
 

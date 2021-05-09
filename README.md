@@ -28,8 +28,8 @@ To complete the **Node.js** video tutorial.
 ## Summary
 
 ### What I learned
-* Able to write basic functions in **Node.js**
-* Microsoft Visual Studio Code, able to switch between terminals: 
+* Practice with writing basic functions in **Node.js**
+* Microsoft Visual Studio Code, practice switching between terminals: 
   * Node.js 'cmd' (to test functions)
   * Git 'bash' (to push files onto GitHub) 
 

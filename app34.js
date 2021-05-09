@@ -29,6 +29,7 @@ const fs = require('fs');
 
 */
 
+
 // fs.rename('example.txt','newFileName.txt',(err)=>{
 //     if(err)
 //         console.log(err);
@@ -36,9 +37,19 @@ const fs = require('fs');
 //         console.log('successfully renamed the file');
 // });
 
-fs.appendFile('newFileName.txt','Some data being appended',(err)=>{
+
+// fs.appendFile('newFileName.txt','Some data being appended',(err)=>{
+//     if(err)
+//         console.log(err)
+//     else
+//         console.log('Successfully appended data to file');
+// });
+
+
+fs.unlink('newFileName.txt',(err)=>{
     if(err)
-        console.log(err)
+        console.log(err);
     else
-        console.log('Successfully appended data to file');
+        console.log('successfully deleted the file');
 });
+

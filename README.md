@@ -31,7 +31,12 @@ To complete the **Node.js** video tutorial.
 * Practice with writing basic functions in **Node.js**
 * Microsoft Visual Studio Code, practice switching between terminals: 
   * Node.js 'cmd' (to test functions)
+   * cls to clear screen
   * Git 'bash' (to push files onto GitHub) 
+   * clear to clear screen
+   * git add -A
+   * git commit -m 'message'
+   * git push origin main 
 
 
 ### What could be improved

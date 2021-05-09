@@ -39,7 +39,7 @@ To complete the **Node.js** video tutorial.
     * git commit -m 'message'
     * git push origin main 
     
-    *(Updates were rejected because the remote contains work)*
+    *(if updates were rejected because the remote contains work)*
     * git remote add origin [github url]
     * git pull origin main (if conflict, pull changes from github)
 

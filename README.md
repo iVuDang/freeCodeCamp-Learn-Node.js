@@ -38,6 +38,10 @@ To complete the **Node.js** video tutorial.
     * git add -A
     * git commit -m 'message'
     * git push origin main 
+    
+    *(if updates were rejected because the remote contains work)*
+    * git remote add origin [github url]
+    * git pull origin main (if conflict, pull changes from github)
 
 
 ### What could be improved

@@ -1,4 +1,4 @@
-# freeCodeCamp - Learn Node.js - Full Tutorial for Beginners
+# freeCodeCamp - Learn Node.js 
 
 Reference:
 <br/>
